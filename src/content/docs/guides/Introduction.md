@@ -8,8 +8,7 @@ Welcome to the Starlight Game Design Documentation! This document provides a com
 
 ### Storyline & Setting
 
-#### Storyline
-
+#### [Storyline](https://starlight-gdd.netlify.app/reference/storyline/)
 The story of Starlight unfolds in the aftermath of the Second Renaissance, a golden age of technological and societal advancement abruptly ended by a cosmic disaster known as the Cataclysm. This catastrophic event was triggered by a fail-safe from the Elyndari, a mysterious precursor race, unleashing widespread chaos. As a result, humanity's advanced technology faltered, leading to environmental collapse, celestial disturbances, and alien invasions.
 
 Players step into the shoes of the Ascendant, individuals resurrected from death with extraordinary abilities due to cybernetic malfunctions during the Cataclysm. As members of the Eternal Order, the Ascendant are dedicated to reclaiming lost glory and rebuilding civilization. With fragmented memories of their past lives and special powers reminiscent of those found in Destiny 2, they embark on a quest for redemption and restoration.
