@@ -4,8 +4,6 @@ description: An Overview to Starlight
 slug: /guides/gameoverview
 ---
 
-## Game Overview
-
 The Game Overview section provides a concise yet comprehensive look into Starlight, detailing its genre, target audience, and unique selling points. This information is designed to give a clear understanding of what Starlight offers and why it stands out in the gaming market.
 
 ### Genre
