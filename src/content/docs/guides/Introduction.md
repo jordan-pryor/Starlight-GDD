@@ -4,8 +4,6 @@ description: An introduction to Starlight
 slug: /guides/introduction
 ---
 
-## Introduction
-
 Welcome to the Starlight Game Design Documentation! This document provides a comprehensive overview of Starlight, an open-world RPG / FPS Pseudo-MMO that invites players to explore a richly detailed universe shaped by cosmic events and advanced technology. Below, you'll find an introduction to the storyline, setting, and key gameplay features that define the Starlight experience.
 
 ### Storyline & Setting
