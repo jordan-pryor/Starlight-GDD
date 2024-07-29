@@ -9,6 +9,7 @@ export default defineConfig({
 			customCss: [
 				// Relative path to your custom CSS file
 				'./src/styles/custom.css',
+			],
 			social: {
 				github: 'https://github.com/FifthCircleStudios/starlight',
 			},
