@@ -3,10 +3,6 @@ title: The Docs Guide
 description: A guide to exploring The Documentation for Starlight
 ---
 
-Certainly! Here’s a structured and informative guide for navigating your Game Design Docs for Starlight:
-
----
-
 ## Navigating the Starlight Game Design Docs
 
 Welcome to the Starlight Game Design Documentation! This guide will help you navigate through the various sections of our game design documents, ensuring you find the information you need efficiently.

@@ -11,10 +11,11 @@ export default defineConfig({
 			},
 			sidebar: [
 				{
-					label: 'Guides',
+					label: 'Main Docs',
 					items: [
 						// Each item here is one entry in the navigation menu.
 						{ label: 'The Guidebook', slug: 'guides/docguide' },
+						{ label: 'Introduction', slug: 'guides/Introduction' },
 					],
 				},
 				{
