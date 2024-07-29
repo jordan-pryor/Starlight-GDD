@@ -7,8 +7,6 @@ description: A reference page, Laying out the Basic Setting
 
 In *Starlight*, players traverse a diverse array of environments that capture the remnants of humanity's ambition and the consequences of their actions. 
 
----
-
 **Earth** is a world marked by its stark contrasts between the remnants of its once-grand civilizations and the remnants of its post-apocalyptic decay. In the heart of this diverse landscape lies **Elysium**, a sprawling mega-city that rises like a beacon of hope amidst the wasteland. Dominated by towering skyscrapers and neon lights, Elysium’s skyline starkly contrasts with the desolate surroundings. Its structure is divided into three distinct levels: **The Spires**, an opulent area reserved for the elite with high-end living spaces and corporate towers; **The Nexus**, the bustling commercial and administrative heart with vibrant marketplaces and transit hubs; and **The Abyss**, a crime-ridden underbelly where poverty and chaos reign. The Eternal Order’s headquarters, **The Bastion**, stands as a fortified tower in The Nexus, serving as a hub for social interaction and questing with its modern architecture and advanced security.
 
 Meanwhile, **London** has been reimagined in a post-apocalyptic setting, where the once-majestic landmarks are now shadowed by decay and ruin. Its streets and neighborhoods have transformed into a labyrinth of survival and forgotten grandeur, reflecting the city's rich history now intertwined with its struggle for existence.
