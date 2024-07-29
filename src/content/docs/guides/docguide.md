@@ -22,7 +22,7 @@ Welcome to the Starlight Game Design Documentation! This guide will help you nav
 
 ---
 
-### 1. Introduction
+### [1. Introduction](https://starlight-gdd.netlify.app/guides/introduction/)
 
 The introduction section provides an overview of the game, its vision, and core concepts. Here you will find:
 
