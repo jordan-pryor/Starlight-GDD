@@ -6,6 +6,9 @@ export default defineConfig({
 	integrations: [
 		starlight({
 			title: 'Starlight Game Development Docs',
+			customCss: [
+				// Relative path to your custom CSS file
+				'./src/styles/custom.css',
 			social: {
 				github: 'https://github.com/FifthCircleStudios/starlight',
 			},
