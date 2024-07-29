@@ -1,6 +1,5 @@
 import { defineConfig } from 'astro/config';
 import starlight from '@astrojs/starlight';
-import { slug } from 'introduction.md';
 
 // https://astro.build/config
 export default defineConfig({
@@ -16,7 +15,7 @@ export default defineConfig({
 					items: [
 						// Each item here is one entry in the navigation menu.
 						{ label: 'The Guidebook', slug: 'guides/docguide' },
-						{ title: 'Introduction', slug: '/guides/introduction' },
+						{ label: 'Introduction', slug: '/guides/introduction' },
 					],
 				},
 				{
