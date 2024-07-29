@@ -3,6 +3,10 @@
   "type": "module",
   "version": "0.0.1",
   "private": true,
+  "engines": {
+    "node": "14.x",
+    "npm": "6.x"
+  },
   "scripts": {
     "dev": "astro dev",
     "start": "astro dev",
@@ -10,10 +14,6 @@
     "preview": "astro preview",
     "astro": "astro"
   },
-  "engines": {
-  "node": "14.x",
-  "npm": "6.x"
-},
   "dependencies": {
     "@astrojs/starlight": "^0.25.2",
     "astro": "^4.10.2",
