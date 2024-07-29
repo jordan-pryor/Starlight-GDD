@@ -1,6 +1,7 @@
 ---
 title: Introduction
 description: An introduction to Starlight
+slug: /guides/introduction
 ---
 
 ## Introduction
