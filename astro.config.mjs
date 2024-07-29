@@ -16,6 +16,7 @@ export default defineConfig({
 						// Each item here is one entry in the navigation menu.
 						{ label: 'The Guidebook', slug: 'guides/docguide' },
 						{ label: 'Introduction', slug: '/guides/introduction' },
+						{ label: 'Game Overview', slug: '/guides/gameoverview' },
 					],
 				},
 				{
