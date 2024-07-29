@@ -3,7 +3,7 @@ title: Setting
 description: A reference page, Laying out the Basic Setting
 ---
 
-**Starlight Setting Overview**
+**Starlight Sol Overview**
 
 In *Starlight*, players traverse a diverse array of environments that capture the remnants of humanity's ambition and the consequences of their actions. 
 
